@@ -1,6 +1,6 @@
 export class BaseUrls {
 
-  public static readonly BASE_HREF: string = "ec2-54-145-127-20.compute-1.amazonaws.com:8081";
+  public static readonly BASE_HREF: string = "ec2-3-82-113-168.compute-1.amazonaws.com:8081";
 
   public static readonly ADMIN_GROUPURL: string = "adminauth";
   public static readonly USER_GROUPURL: string = "users";
